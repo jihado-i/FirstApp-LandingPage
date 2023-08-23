@@ -1,0 +1,53 @@
+/* Media querys */
+
+@media only screen and (max-width: 900px){
+
+    .info .info-content{
+        width: 100%;
+        flex-direction: column;
+    }
+    .info .info-content .info-content-item{
+        width: 100%;
+    }
+    .info .info-content .info-content-item i{
+        font-size: 35px;
+    }
+    .info .info-content .info-content-item h2{
+        margin-top: 10px;   
+        font-size: 25px;
+    }
+    .info .info-content .info-content-item p{
+        padding-bottom: 40px;
+        width: 85%;
+    }
+    .services>.container>.services-content>.services-items{
+        flex-direction: column;
+    }
+    .portfolio .portfolio-items .portfolio-item img{
+        max-height: 40vh;
+    }
+    .portfolio .portfolio-items{
+        flex-direction: column;
+    }
+    
+    .portfolio .portfolio-items .portfolio-item img:hover{
+        transform: scale(1.066);
+    }
+    .portfolio .portfolio-items .portfolio-item img{
+        width: 100%;
+    }
+    .portfolio .portfolio-items .portfolio-item .portfolio-item-content h3{
+        font-size: 1rem;
+    }
+    .portfolio .portfolio-items .portfolio-item .portfolio-item-content p{
+        line-height: 1.4;
+        margin-top: 20px;
+        color: rgb(121, 121, 121);
+    }
+    /* About */
+    .about .about-content .about-content-text p{
+        font-size: 0.9rem;
+    }
+
+}
+
