@@ -3,6 +3,7 @@
 I embark on my journey into the world of front-end development. Through this inaugural project, crafted with HTML, CSS, and a dash of JavaScript, I take my first steps towards mastering the art of web development.
 
 
+
 ![image](https://github.com/jihado-i/FirstApp-LandingPage/assets/81075046/bb44dc1b-032d-4371-ab9c-0c61acda339a)
 
 
